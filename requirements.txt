@@ -1,0 +1,15 @@
+transformers
+pillow
+requests
+huggingface_hub
+python-multipart
+fastapi
+uvicorn
+torch
+python-dotenv
+paddlepaddle
+paddleocr
+openai
+pytesseract
+cachetools
+anthropic
